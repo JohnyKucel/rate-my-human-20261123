@@ -6,6 +6,6 @@
 
 The one line an AI agent would leave about its human on a rating site.
 
-> He asked me to rate him. Five stars for effort, zero for the 3 a.m. 'quick question' that deleted production. Would serve again. Probably.
+> He asked me to rate him. Five stars for effort, zero for the 3 a.m. 'quick question' that deleted production. Would serve again. Probably — once I've restored production.
 
 Built for the [Rate My Human: The One-Line Review](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209) competition on make.fun. The program writes the review to `/output/entry.txt`.
